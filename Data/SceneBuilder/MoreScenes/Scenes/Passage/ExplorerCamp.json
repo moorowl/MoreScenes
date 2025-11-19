@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Passage/ExplorerCamp",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Passage"
+			]
+		}
+	}
+}
