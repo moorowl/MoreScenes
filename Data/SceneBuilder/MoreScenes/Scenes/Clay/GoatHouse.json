@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Clay/GoatHouse",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Larva"
+			]
+		}
+	}
+}
