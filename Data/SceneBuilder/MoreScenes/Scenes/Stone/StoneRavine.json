@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Stone/StoneRavine",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Stone"
+			]
+		}
+	}
+}
