@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Crystal/AlienPool",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Crystal"
+			]
+		}
+	}
+}
