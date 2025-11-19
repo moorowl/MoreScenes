@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Desert/LavaShatteredHeart",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Desert"
+			]
+		}
+	}
+}
