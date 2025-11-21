@@ -1,0 +1,11 @@
+{
+	"structure": "MoreScenes:Mold/MoldMinecartHub",
+	"generation": {
+		"dungeon": [
+			{
+				"internalName": "MoldDungeon0",
+				"sceneGroupIndex": 0
+			}
+		]
+	}
+}
