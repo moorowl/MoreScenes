@@ -1,0 +1,956 @@
+{
+	"version": 0,
+	"objects": [
+		{
+			"id": "NatureWoodenDestructible",
+			"variation": 0,
+			"position": [ 11, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 16, 14 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 15, 15 ],
+			"properties": {}
+		},
+		{
+			"id": "RootPlant",
+			"variation": 0,
+			"position": [ 14, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 18, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureWoodenDestructible",
+			"variation": 1,
+			"position": [ 12, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 17, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureDestructible",
+			"variation": 0,
+			"position": [ 12, 4 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 16, 6 ],
+			"properties": {}
+		},
+		{
+			"id": "RootPlant",
+			"variation": 0,
+			"position": [ 14, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 12, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 10, 2 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureDestructible",
+			"variation": 1,
+			"position": [ 13, 4 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 16, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 18, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "GraveTree",
+			"variation": 0,
+			"position": [ 16, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "GraveTree",
+			"variation": 0,
+			"position": [ 10, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 11, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 8, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 15, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "ElectricalWire",
+			"variation": 0,
+			"position": [ 9, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 12, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "GraveTree",
+			"variation": 0,
+			"position": [ 12, 5 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 17, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 8, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ElectricalWire",
+			"variation": 0,
+			"position": [ 9, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 13, 3 ],
+			"properties": {}
+		},
+		{
+			"id": "AbandonedCampMatress",
+			"variation": 0,
+			"position": [ 10, 4 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 11, 5 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 10, 5 ],
+			"properties": {}
+		},
+		{
+			"id": "Lever",
+			"variation": 0,
+			"position": [ 8, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 8, 14 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 9, 4 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 15, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "CrudeDrill",
+			"variation": 1,
+			"position": [ 9, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "CrudeDrill",
+			"variation": 1,
+			"position": [ 9, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 8, 0 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 8, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureDestructible",
+			"variation": 0,
+			"position": [ 7, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 7, 6 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 2, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 3, 7 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 7, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureWoodenDestructible",
+			"variation": 3,
+			"position": [ 4, 5 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 6, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "GraveTree",
+			"variation": 0,
+			"position": [ 7, 14 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 6, 14 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureWoodenDestructible",
+			"variation": 0,
+			"position": [ 4, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 0, 12 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 3, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 2, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "TableSaw",
+			"variation": 0,
+			"position": [ 2, 9 ],
+			"properties": {
+				"inventory": [
+					{
+						"slot": 0,
+						"id": "Wood",
+						"variation": 0,
+						"amount": 25
+					}
+				]
+			}
+		},
+		{
+			"id": "NatureWoodenDestructible",
+			"variation": 1,
+			"position": [ 4, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 2,
+			"position": [ 1, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "WaterKelp",
+			"variation": 0,
+			"position": [ 5, 11 ],
+			"properties": {}
+		},
+		{
+			"id": "WaterKelp",
+			"variation": 0,
+			"position": [ 7, 5 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 2, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 2,
+			"position": [ 1, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 2,
+			"position": [ 1, 9 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 3, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 2, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 3, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 4, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 5, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 6, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 4, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 5, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 6, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 7, 8 ],
+			"properties": {}
+		},
+		{
+			"id": "GraveTree",
+			"variation": 0,
+			"position": [ 4, 2 ],
+			"properties": {}
+		},
+		{
+			"id": "Bush",
+			"variation": 0,
+			"position": [ 5, 2 ],
+			"properties": {}
+		},
+		{
+			"id": "ConveyorBelt",
+			"variation": 3,
+			"position": [ 7, 10 ],
+			"properties": {}
+		},
+		{
+			"id": "NatureDestructible",
+			"variation": 1,
+			"position": [ 4, 13 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 6, 2 ],
+			"properties": {}
+		},
+		{
+			"id": "TallGrass",
+			"variation": 0,
+			"position": [ 3, 2 ],
+			"properties": {}
+		}
+	],
+	"tiles": [
+		{
+			"tileset": "Dirt",
+			"tileType": "ground",
+			"positions": [
+				[ 0, 6 ],
+				[ 0, 7 ],
+				[ 0, 8 ],
+				[ 0, 9 ],
+				[ 0, 10 ],
+				[ 0, 11 ],
+				[ 1, 6 ],
+				[ 1, 7 ],
+				[ 1, 8 ],
+				[ 1, 9 ],
+				[ 1, 10 ],
+				[ 1, 11 ],
+				[ 2, 6 ],
+				[ 2, 7 ],
+				[ 2, 8 ],
+				[ 2, 9 ],
+				[ 2, 10 ],
+				[ 2, 11 ],
+				[ 3, 5 ],
+				[ 3, 6 ],
+				[ 3, 7 ],
+				[ 3, 8 ],
+				[ 3, 9 ],
+				[ 3, 10 ],
+				[ 3, 11 ],
+				[ 3, 12 ],
+				[ 4, 4 ],
+				[ 4, 5 ],
+				[ 4, 6 ],
+				[ 4, 7 ],
+				[ 4, 8 ],
+				[ 4, 9 ],
+				[ 4, 10 ],
+				[ 4, 11 ],
+				[ 4, 12 ],
+				[ 5, 3 ],
+				[ 5, 4 ],
+				[ 5, 5 ],
+				[ 5, 6 ],
+				[ 5, 7 ],
+				[ 5, 8 ],
+				[ 5, 9 ],
+				[ 5, 10 ],
+				[ 5, 12 ],
+				[ 6, 3 ],
+				[ 6, 4 ],
+				[ 6, 5 ],
+				[ 6, 6 ],
+				[ 6, 7 ],
+				[ 6, 8 ],
+				[ 6, 9 ],
+				[ 6, 10 ],
+				[ 7, 4 ],
+				[ 7, 6 ],
+				[ 7, 7 ],
+				[ 7, 8 ],
+				[ 7, 9 ],
+				[ 7, 10 ],
+				[ 8, 5 ],
+				[ 8, 6 ],
+				[ 8, 7 ],
+				[ 8, 8 ],
+				[ 8, 9 ],
+				[ 8, 10 ],
+				[ 8, 11 ],
+				[ 8, 12 ],
+				[ 9, 6 ],
+				[ 9, 7 ],
+				[ 9, 9 ],
+				[ 10, 6 ],
+				[ 10, 7 ],
+				[ 10, 9 ],
+				[ 10, 11 ],
+				[ 10, 12 ],
+				[ 11, 6 ],
+				[ 11, 7 ],
+				[ 11, 9 ],
+				[ 11, 11 ],
+				[ 11, 12 ],
+				[ 12, 6 ],
+				[ 12, 7 ],
+				[ 12, 9 ],
+				[ 12, 11 ],
+				[ 12, 12 ],
+				[ 13, 6 ],
+				[ 13, 7 ],
+				[ 13, 9 ],
+				[ 13, 11 ],
+				[ 13, 12 ],
+				[ 14, 6 ],
+				[ 14, 7 ],
+				[ 14, 9 ],
+				[ 14, 11 ],
+				[ 14, 12 ]
+			]
+		},
+		{
+			"tileset": "BaseBuildingWood",
+			"tileType": "wall",
+			"positions": [
+				[ 0, 6 ],
+				[ 0, 7 ],
+				[ 0, 8 ],
+				[ 0, 9 ],
+				[ 0, 10 ],
+				[ 0, 11 ],
+				[ 1, 6 ],
+				[ 1, 11 ],
+				[ 2, 6 ],
+				[ 2, 11 ],
+				[ 3, 5 ],
+				[ 3, 6 ],
+				[ 3, 9 ],
+				[ 3, 11 ],
+				[ 3, 12 ],
+				[ 4, 12 ],
+				[ 5, 12 ],
+				[ 8, 6 ],
+				[ 8, 12 ],
+				[ 9, 6 ],
+				[ 10, 6 ],
+				[ 11, 6 ],
+				[ 11, 12 ],
+				[ 12, 12 ],
+				[ 13, 6 ],
+				[ 13, 12 ],
+				[ 14, 6 ],
+				[ 14, 7 ],
+				[ 14, 9 ],
+				[ 14, 11 ],
+				[ 14, 12 ]
+			]
+		},
+		{
+			"tileset": "Nature",
+			"tileType": "ground",
+			"positions": [
+				[ 0, 12 ],
+				[ 1, 12 ],
+				[ 1, 13 ],
+				[ 2, 12 ],
+				[ 2, 13 ],
+				[ 3, 1 ],
+				[ 3, 2 ],
+				[ 3, 13 ],
+				[ 4, 0 ],
+				[ 4, 1 ],
+				[ 4, 2 ],
+				[ 4, 13 ],
+				[ 4, 14 ],
+				[ 5, 0 ],
+				[ 5, 1 ],
+				[ 5, 2 ],
+				[ 5, 13 ],
+				[ 5, 14 ],
+				[ 6, 0 ],
+				[ 6, 1 ],
+				[ 6, 2 ],
+				[ 6, 13 ],
+				[ 6, 14 ],
+				[ 6, 15 ],
+				[ 7, 0 ],
+				[ 7, 1 ],
+				[ 7, 2 ],
+				[ 7, 13 ],
+				[ 7, 14 ],
+				[ 7, 15 ],
+				[ 8, 0 ],
+				[ 8, 1 ],
+				[ 8, 2 ],
+				[ 8, 13 ],
+				[ 8, 14 ],
+				[ 8, 15 ],
+				[ 9, 0 ],
+				[ 9, 1 ],
+				[ 9, 2 ],
+				[ 9, 3 ],
+				[ 9, 4 ],
+				[ 9, 5 ],
+				[ 9, 13 ],
+				[ 9, 14 ],
+				[ 9, 15 ],
+				[ 10, 1 ],
+				[ 10, 2 ],
+				[ 10, 3 ],
+				[ 10, 4 ],
+				[ 10, 5 ],
+				[ 10, 13 ],
+				[ 10, 14 ],
+				[ 10, 15 ],
+				[ 11, 1 ],
+				[ 11, 2 ],
+				[ 11, 3 ],
+				[ 11, 4 ],
+				[ 11, 5 ],
+				[ 11, 13 ],
+				[ 11, 14 ],
+				[ 12, 2 ],
+				[ 12, 3 ],
+				[ 12, 4 ],
+				[ 12, 5 ],
+				[ 12, 13 ],
+				[ 12, 14 ],
+				[ 13, 2 ],
+				[ 13, 3 ],
+				[ 13, 4 ],
+				[ 13, 5 ],
+				[ 13, 13 ],
+				[ 13, 14 ],
+				[ 13, 15 ],
+				[ 14, 3 ],
+				[ 14, 4 ],
+				[ 14, 5 ],
+				[ 14, 13 ],
+				[ 14, 14 ],
+				[ 14, 15 ],
+				[ 15, 4 ],
+				[ 15, 5 ],
+				[ 15, 6 ],
+				[ 15, 7 ],
+				[ 15, 11 ],
+				[ 15, 12 ],
+				[ 15, 13 ],
+				[ 15, 14 ],
+				[ 15, 15 ],
+				[ 16, 5 ],
+				[ 16, 6 ],
+				[ 16, 7 ],
+				[ 16, 11 ],
+				[ 16, 12 ],
+				[ 16, 13 ],
+				[ 16, 14 ],
+				[ 17, 6 ],
+				[ 17, 7 ],
+				[ 17, 11 ],
+				[ 17, 12 ],
+				[ 17, 13 ],
+				[ 18, 6 ],
+				[ 18, 7 ],
+				[ 18, 11 ],
+				[ 18, 12 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "smallGrass",
+			"positions": [
+				[ 1, 7 ],
+				[ 2, 7 ],
+				[ 3, 7 ],
+				[ 7, 6 ],
+				[ 7, 9 ],
+				[ 8, 9 ],
+				[ 12, 9 ]
+			]
+		},
+		{
+			"tileset": "BaseBuildingWood",
+			"tileType": "floor",
+			"positions": [
+				[ 1, 8 ],
+				[ 1, 9 ],
+				[ 1, 10 ],
+				[ 2, 8 ],
+				[ 2, 9 ],
+				[ 2, 10 ],
+				[ 4, 4 ],
+				[ 4, 5 ],
+				[ 4, 6 ],
+				[ 4, 7 ],
+				[ 4, 9 ],
+				[ 4, 11 ],
+				[ 5, 3 ],
+				[ 5, 4 ],
+				[ 5, 5 ],
+				[ 5, 6 ],
+				[ 5, 7 ],
+				[ 5, 9 ],
+				[ 6, 3 ],
+				[ 6, 4 ],
+				[ 6, 5 ],
+				[ 6, 6 ],
+				[ 6, 7 ],
+				[ 6, 9 ],
+				[ 7, 4 ],
+				[ 7, 7 ],
+				[ 8, 7 ],
+				[ 9, 7 ],
+				[ 10, 7 ],
+				[ 10, 9 ],
+				[ 10, 11 ],
+				[ 11, 7 ],
+				[ 11, 9 ],
+				[ 11, 11 ],
+				[ 12, 7 ],
+				[ 12, 11 ],
+				[ 13, 7 ],
+				[ 13, 9 ],
+				[ 13, 11 ]
+			]
+		},
+		{
+			"tileset": "Stone",
+			"tileType": "ground",
+			"positions": [
+				[ 3, 3 ],
+				[ 3, 4 ],
+				[ 4, 3 ],
+				[ 6, 11 ],
+				[ 6, 12 ],
+				[ 7, 3 ],
+				[ 7, 11 ],
+				[ 7, 12 ],
+				[ 8, 3 ],
+				[ 8, 4 ],
+				[ 9, 8 ],
+				[ 9, 10 ],
+				[ 9, 11 ],
+				[ 9, 12 ]
+			]
+		},
+		{
+			"tileset": "BaseBuildingStone",
+			"tileType": "wall",
+			"positions": [
+				[ 3, 3 ],
+				[ 3, 4 ],
+				[ 4, 3 ],
+				[ 6, 11 ],
+				[ 6, 12 ],
+				[ 7, 3 ],
+				[ 7, 11 ],
+				[ 7, 12 ],
+				[ 8, 3 ],
+				[ 8, 4 ],
+				[ 9, 11 ],
+				[ 9, 12 ]
+			]
+		},
+		{
+			"tileset": "Nature",
+			"tileType": "wallGrass",
+			"positions": [
+				[ 3, 3 ],
+				[ 8, 12 ],
+				[ 13, 6 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "wallGrass",
+			"positions": [
+				[ 4, 12 ],
+				[ 6, 11 ],
+				[ 11, 6 ],
+				[ 11, 12 ],
+				[ 12, 6 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "pit",
+			"positions": [
+				[ 5, 11 ],
+				[ 7, 5 ],
+				[ 15, 9 ],
+				[ 16, 9 ],
+				[ 17, 9 ],
+				[ 18, 9 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "water",
+			"positions": [
+				[ 5, 11 ],
+				[ 7, 5 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "roofHole",
+			"positions": [
+				[ 5, 11 ],
+				[ 7, 5 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "wall",
+			"positions": [
+				[ 8, 5 ],
+				[ 10, 12 ],
+				[ 12, 6 ]
+			]
+		},
+		{
+			"tileset": "Turf",
+			"tileType": "ground",
+			"positions": [
+				[ 10, 8 ],
+				[ 10, 10 ],
+				[ 11, 8 ],
+				[ 11, 10 ],
+				[ 12, 8 ],
+				[ 12, 10 ],
+				[ 13, 8 ],
+				[ 13, 10 ],
+				[ 14, 8 ],
+				[ 14, 10 ],
+				[ 15, 8 ],
+				[ 15, 10 ],
+				[ 16, 8 ],
+				[ 16, 10 ],
+				[ 17, 8 ],
+				[ 17, 10 ],
+				[ 18, 8 ],
+				[ 18, 10 ]
+			]
+		},
+		{
+			"tileset": "Turf",
+			"tileType": "dugUpGround",
+			"positions": [
+				[ 10, 8 ],
+				[ 10, 10 ],
+				[ 11, 8 ],
+				[ 11, 10 ],
+				[ 12, 8 ],
+				[ 12, 10 ],
+				[ 13, 8 ],
+				[ 13, 10 ],
+				[ 14, 10 ],
+				[ 15, 8 ],
+				[ 15, 10 ],
+				[ 16, 8 ],
+				[ 16, 10 ],
+				[ 17, 8 ],
+				[ 17, 10 ],
+				[ 18, 8 ],
+				[ 18, 10 ]
+			]
+		},
+		{
+			"tileset": "Dirt",
+			"tileType": "bigRoot",
+			"positions": [
+				[ 10, 8 ],
+				[ 10, 10 ],
+				[ 11, 8 ],
+				[ 11, 10 ],
+				[ 12, 8 ],
+				[ 12, 10 ],
+				[ 13, 8 ],
+				[ 13, 10 ],
+				[ 15, 8 ],
+				[ 15, 10 ],
+				[ 16, 8 ],
+				[ 16, 10 ],
+				[ 17, 8 ],
+				[ 17, 10 ],
+				[ 18, 8 ],
+				[ 18, 10 ]
+			]
+		},
+		{
+			"tileset": "Nature",
+			"tileType": "dugUpGround",
+			"positions": [
+				[ 14, 8 ]
+			]
+		},
+		{
+			"tileset": "Nature",
+			"tileType": "wateredGround",
+			"positions": [
+				[ 14, 8 ]
+			]
+		},
+		{
+			"tileset": "Turf",
+			"tileType": "wateredGround",
+			"positions": [
+				[ 14, 10 ]
+			]
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"structure": "MoreScenes:Forest/Lumbermill",
+	"generation": {
+		"canFlip": "Horizontal",
+		"random": {
+			"maxOccurrences": 1,
+			"biomesToSpawnIn": [
+				"Nature"
+			]
+		}
+	}
+}
