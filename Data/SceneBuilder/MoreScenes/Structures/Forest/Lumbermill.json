@@ -898,6 +898,7 @@
 				[ 12, 10 ],
 				[ 13, 8 ],
 				[ 13, 10 ],
+				[ 14, 8 ],
 				[ 14, 10 ],
 				[ 15, 8 ],
 				[ 15, 10 ],
@@ -932,24 +933,11 @@
 			]
 		},
 		{
-			"tileset": "Nature",
-			"tileType": "dugUpGround",
-			"positions": [
-				[ 14, 8 ]
-			]
-		},
-		{
-			"tileset": "Nature",
-			"tileType": "wateredGround",
-			"positions": [
-				[ 14, 8 ]
-			]
-		},
-		{
 			"tileset": "Turf",
 			"tileType": "wateredGround",
 			"positions": [
-				[ 14, 10 ]
+				[ 14, 10 ],
+				[ 14, 8 ]
 			]
 		}
 	]
