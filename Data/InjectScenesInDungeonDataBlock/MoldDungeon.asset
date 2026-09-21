@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4eb60f22e0ec4f5383ed35635284e8d6, type: 3}
+  m_Name: MoldDungeon
+  m_EditorClassIdentifier: 
+  m_overload:
+    m_address:
+      m_low: 0
+      m_high: 0
+  m_address:
+    m_low: -4506768704256280715
+    m_high: 1358416566857213002
+  m_dynamicCollections:
+    m_list: []
+  dungeonName: MoldDungeon0
+  sceneGroupIndex: 0
+  scenesToInject:
+  - m_address:
+      m_low: -4529392615105536732
+      m_high: 2626561379668571627
+  - m_address:
+      m_low: 7648252973918806362
+      m_high: 4652219647498822667
+  - m_address:
+      m_low: 7981652397461501970
+      m_high: 4358193882908458824
+  - m_address:
+      m_low: 3126872304245464299
+      m_high: 2045764362964202315
+  - m_address:
+      m_low: -8550933736911115876
+      m_high: 1719863844005971851
+  - m_address:
+      m_low: -4358259238419722031
+      m_high: -3565515020254563381
+  - m_address:
+      m_low: 4779714149806516915
+      m_high: -8823237469123678710
+  - m_address:
+      m_low: 8742717260900877789
+      m_high: -8415016853005536053
+  - m_address:
+      m_low: -4673501226235004168
+      m_high: -8623470209499162871
+  - m_address:
+      m_low: 3320281317488836179
+      m_high: 7231667803312593497
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1862748601270596871
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1029292188274735, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_Name
+      value: DodoBabyEntity_MoreScenes_DodoIsland_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378999439414603, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114076774407043409, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      propertyPath: prefabId
+      value: b517d52e9adac094f8fc43cb54d7cc49
+      objectReference: {fileID: 0}
+    - target: {fileID: 114365378376329953, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      propertyPath: objectInfo.variation
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114365378376329953, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      propertyPath: objectInfo.isCustomScenePrefab
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114365378376329953, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      propertyPath: objectInfo.prefabInfo.authoringRef.m_address.m_low
+      value: 5797481390947388929
+      objectReference: {fileID: 0}
+    - target: {fileID: 114365378376329953, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      propertyPath: objectInfo.prefabInfo.authoringRef.m_address.m_high
+      value: 5375318217110294024
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1029292188274735, guid: 196602bb36da763449203f8e689ca72a,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -6635455911435509975}
+  m_SourcePrefab: {fileID: 100100000, guid: 196602bb36da763449203f8e689ca72a, type: 3}
+--- !u!1 &1862915577842394408 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1029292188274735, guid: 196602bb36da763449203f8e689ca72a,
+    type: 3}
+  m_PrefabInstance: {fileID: 1862748601270596871}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-6635455911435509975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1862915577842394408}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1740491652, guid: 3392f4c23e1d8662d749dabb2361ee02, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

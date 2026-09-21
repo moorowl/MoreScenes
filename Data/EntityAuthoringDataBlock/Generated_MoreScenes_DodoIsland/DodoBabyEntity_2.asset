@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 861898204, guid: 5a7e404e57a3ed387bf565f46c30b9c1, type: 3}
+  m_Name: DodoBabyEntity_2
+  m_EditorClassIdentifier: 
+  m_overload:
+    m_address:
+      m_low: 0
+      m_high: 0
+  m_address:
+    m_low: 194890145847932954
+    m_high: -8897071518892188710
+  m_dynamicCollections:
+    m_list: []
+  prefab: {fileID: 8223807561696112731, guid: fa8429904e69677499cc7326c5732cdb, type: 3}
+  references:
+    version: 2
+    RefIds: []

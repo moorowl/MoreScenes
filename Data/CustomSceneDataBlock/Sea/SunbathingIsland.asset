@@ -1,0 +1,1055 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -893917552, guid: d304991c6052ba7a12394a52a912279f, type: 3}
+  m_Name: SunbathingIsland
+  m_EditorClassIdentifier: 
+  m_overload:
+    m_address:
+      m_low: 0
+      m_high: 0
+  m_address:
+    m_low: 1599950432890455889
+    m_high: -9014931218273772246
+  m_dynamicCollections:
+    m_list: []
+  sceneReference:
+    guid: c9be12b1d1e76dd44ba4522f6770d4fc
+  sceneName: MoreScenes_SunbathingIsland
+  maxOccurrences: 1
+  replacedByContentBundle:
+    hasValue: 0
+    value:
+      m_address:
+        m_low: 0
+        m_high: 0
+  biomesToSpawnIn:
+    classic: 
+    fullRelease: 07000000
+  minDistanceFromCoreInClassicWorlds: 0
+  canFlipX: 1
+  canFlipY: 0
+  hasCenter: 0
+  center:
+    x: 0
+    y: 0
+  boundsSize:
+    x: 20
+    y: 20
+  radius: 14
+  maps:
+  - localPosition:
+      x: 0
+      y: 0
+    mapData:
+      seed: 0
+      bounds:
+        m_Position: {x: 0, y: 0, z: 0}
+        m_Size: {x: 10, y: 10, z: 10}
+      objectPositions: []
+      objects: []
+      layers:
+      - tileData:
+          tileType: 46
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 102
+          e: 104
+        - s: 109
+          e: 110
+        - s: 201
+          e: 203
+        - s: 209
+          e: 210
+        - s: 301
+          e: 303
+        - s: 306
+          e: 308
+        - s: 401
+          e: 402
+        - s: 406
+          e: 410
+        - s: 504
+          e: 510
+        - s: 603
+          e: 610
+        - s: 703
+          e: 710
+        - s: 803
+          e: 810
+        - s: 903
+          e: 910
+      - tileData:
+          tileType: 37
+          tilesetType: 0
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 102
+          e: 104
+        - s: 106
+          e: 110
+        - s: 201
+          e: 210
+        - s: 301
+          e: 308
+        - s: 309
+          e: 310
+        - s: 402
+          e: 410
+        - s: 502
+          e: 506
+        - s: 508
+          e: 510
+        - s: 604
+          e: 609
+        - s: 702
+          e: 705
+        - s: 707
+          e: 708
+        - s: 709
+          e: 710
+        - s: 803
+          e: 805
+        - s: 806
+          e: 810
+        - s: 903
+          e: 910
+      - tileData:
+          tileType: 126
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 105
+          e: 109
+        - s: 203
+          e: 209
+        - s: 303
+          e: 306
+        - s: 308
+          e: 310
+        - s: 402
+          e: 406
+        - s: 501
+          e: 504
+        - s: 601
+          e: 603
+        - s: 702
+          e: 703
+      - tileData:
+          tileType: 67
+          tilesetType: 19
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 607
+          e: 608
+        - s: 707
+          e: 708
+      - tileData:
+          tileType: 67
+          tilesetType: 62
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 609
+          e: 610
+        - s: 709
+          e: 710
+  - localPosition:
+      x: 0
+      y: 10
+    mapData:
+      seed: 0
+      bounds:
+        m_Position: {x: 0, y: 0, z: 0}
+        m_Size: {x: 10, y: 10, z: 10}
+      objectPositions: []
+      objects: []
+      layers:
+      - tileData:
+          tileType: 46
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 4
+          e: 10
+        - s: 106
+          e: 109
+        - s: 409
+          e: 410
+        - s: 507
+          e: 510
+      - tileData:
+          tileType: 37
+          tilesetType: 0
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 4
+          e: 10
+        - s: 105
+          e: 109
+        - s: 205
+          e: 209
+        - s: 306
+          e: 309
+        - s: 407
+          e: 410
+        - s: 507
+          e: 510
+      - tileData:
+          tileType: 126
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 105
+          e: 106
+        - s: 109
+          e: 110
+        - s: 205
+          e: 210
+        - s: 305
+          e: 310
+        - s: 406
+          e: 409
+  - localPosition:
+      x: 10
+      y: 0
+    mapData:
+      seed: 0
+      bounds:
+        m_Position: {x: 0, y: 0, z: 0}
+        m_Size: {x: 10, y: 10, z: 10}
+      objectPositions: []
+      objects: []
+      layers:
+      - tileData:
+          tileType: 46
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 100
+          e: 101
+        - s: 200
+          e: 202
+        - s: 301
+          e: 303
+        - s: 403
+          e: 404
+        - s: 500
+          e: 502
+        - s: 503
+          e: 504
+        - s: 600
+          e: 602
+        - s: 604
+          e: 605
+        - s: 700
+          e: 702
+        - s: 704
+          e: 705
+        - s: 800
+          e: 803
+        - s: 804
+          e: 805
+        - s: 900
+          e: 903
+      - tileData:
+          tileType: 37
+          tilesetType: 0
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 100
+          e: 102
+        - s: 200
+          e: 202
+        - s: 300
+          e: 302
+        - s: 400
+          e: 401
+        - s: 500
+          e: 501
+        - s: 600
+          e: 602
+        - s: 603
+          e: 605
+        - s: 703
+          e: 705
+        - s: 800
+          e: 801
+        - s: 803
+          e: 805
+        - s: 900
+          e: 904
+      - tileData:
+          tileType: 33
+          tilesetType: 0
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 101
+          e: 102
+      - tileData:
+          tileType: 126
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 300
+          e: 301
+        - s: 400
+          e: 403
+        - s: 502
+          e: 503
+        - s: 602
+          e: 604
+        - s: 702
+          e: 704
+        - s: 803
+          e: 804
+        - s: 903
+          e: 904
+  - localPosition:
+      x: 10
+      y: 10
+    mapData:
+      seed: 0
+      bounds:
+        m_Position: {x: 0, y: 0, z: 0}
+        m_Size: {x: 10, y: 10, z: 10}
+      objectPositions: []
+      objects: []
+      layers:
+      - tileData:
+          tileType: 46
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 0
+          e: 2
+        - s: 303
+          e: 304
+        - s: 400
+          e: 402
+        - s: 500
+          e: 501
+      - tileData:
+          tileType: 37
+          tilesetType: 0
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 1
+          e: 4
+        - s: 101
+          e: 104
+        - s: 201
+          e: 203
+        - s: 301
+          e: 304
+        - s: 400
+          e: 401
+      - tileData:
+          tileType: 126
+          tilesetType: 10
+          state: 0
+          typeData: 
+        tileDataChunks:
+        - s: 2
+          e: 4
+        - s: 100
+          e: 104
+        - s: 200
+          e: 203
+        - s: 300
+          e: 303
+  authObjects:
+  - m_address:
+      m_low: 4874080938673419779
+      m_high: 4715681118287971659
+  - m_address:
+      m_low: -1674190761106790442
+      m_high: -5199960438503055399
+  - m_address:
+      m_low: -4020389138185271799
+      m_high: -2826345855349749878
+  - m_address:
+      m_low: -4020389138185271799
+      m_high: -2826345855349749878
+  - m_address:
+      m_low: -4020389138185271799
+      m_high: -2826345855349749878
+  - m_address:
+      m_low: -741702242057041487
+      m_high: -2399547630249930104
+  - m_address:
+      m_low: -741702242057041487
+      m_high: -2399547630249930104
+  - m_address:
+      m_low: -741702242057041487
+      m_high: -2399547630249930104
+  - m_address:
+      m_low: -741702242057041487
+      m_high: -2399547630249930104
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: -2228142783407682542
+      m_high: 3124323169866964779
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 7162107192081759103
+      m_high: -8618908027702630104
+  - m_address:
+      m_low: 5802003754391687497
+      m_high: -2796750119417495365
+  - m_address:
+      m_low: 5802003754391687497
+      m_high: -2796750119417495365
+  - m_address:
+      m_low: 938091829417852190
+      m_high: -6822264625394463880
+  - m_address:
+      m_low: 938091829417852190
+      m_high: -6822264625394463880
+  - m_address:
+      m_low: 938091829417852190
+      m_high: -6822264625394463880
+  - m_address:
+      m_low: 938091829417852190
+      m_high: -6822264625394463880
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  - m_address:
+      m_low: -1502815659099732406
+      m_high: 6902080002543279193
+  prefabPositions:
+  - {x: 9, y: 0, z: 9}
+  - {x: 4, y: 0, z: 7}
+  - {x: 7, y: 0, z: 2}
+  - {x: 7, y: 0, z: 14}
+  - {x: 3, y: 0, z: 4}
+  - {x: 8, y: 0, z: 3}
+  - {x: 9, y: 0, z: 13}
+  - {x: 13, y: 0, z: 9}
+  - {x: 12, y: 0, z: 11}
+  - {x: 13, y: 0, z: 4}
+  - {x: 9, y: 0, z: 8}
+  - {x: 8, y: 0, z: 15}
+  - {x: 7, y: 0, z: 8}
+  - {x: 2, y: 0, z: 2}
+  - {x: 4, y: 0, z: 8}
+  - {x: 11, y: 0, z: 2}
+  - {x: 5, y: 0, z: 9}
+  - {x: 11, y: 0, z: 14}
+  - {x: 6, y: 0, z: 10}
+  - {x: 3, y: 0, z: 1}
+  - {x: 10, y: 0, z: 2}
+  - {x: 3, y: 0, z: 7}
+  - {x: 10, y: 0, z: 7}
+  - {x: 12, y: 0, z: 7}
+  - {x: 8, y: 0, z: 1}
+  - {x: 5, y: 0, z: 11}
+  - {x: 2, y: 0, z: 6}
+  - {x: 6, y: 0, z: 9}
+  - {x: 1, y: 0, z: 3}
+  - {x: 7, y: 0, z: 10}
+  - {x: 11, y: 0, z: 3}
+  - {x: 13, y: 0, z: 13}
+  - {x: 11, y: 0, z: 6}
+  - {x: 9, y: 0, z: 15}
+  - {x: 8, y: 0, z: 8}
+  - {x: 6, y: 0, z: 3}
+  - {x: 13, y: 0, z: 5}
+  prefabDirections:
+  - hasValue: 1
+    value:
+      x: 1
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  - hasValue: 0
+    value:
+      x: 0
+      y: 0
+      z: 0
+  prefabColors:
+  - hasValue: 1
+    value: 5
+  - hasValue: 1
+    value: 9
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  - hasValue: 0
+    value: 0
+  prefabInventoryOverrides:
+  - hasAnyInventoryOverride: 1
+    hasLootTableOverride: 0
+    hasItemsOverride: 1
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride:
+    - requiredContentBundle:
+        hasValue: 0
+        value:
+          m_low: 0
+          m_high: 0
+      item:
+        objectID: 8520
+        variation: 0
+        amount: 90
+    - requiredContentBundle:
+        hasValue: 0
+        value:
+          m_low: 0
+          m_high: 0
+      item:
+        objectID: 8618
+        variation: 0
+        amount: 100
+    - requiredContentBundle:
+        hasValue: 0
+        value:
+          m_low: 0
+          m_high: 0
+      item:
+        objectID: 9408
+        variation: 0
+        amount: 1
+    - requiredContentBundle:
+        hasValue: 0
+        value:
+          m_low: 0
+          m_high: 0
+      item:
+        objectID: 9409
+        variation: 0
+        amount: 2
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  - hasAnyInventoryOverride: 0
+    hasLootTableOverride: 0
+    hasItemsOverride: 0
+    lootTableOverride: 0
+    itemsToRemove: 0
+    itemsOverride: []
+  references:
+    version: 2
+    RefIds: []
